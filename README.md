@@ -59,10 +59,6 @@ This file contains the main code for the Streamlit web application. Key function
 
 This Jupyter notebook contains the code used to preprocess data, compute movie similarities, and save the required `.pkl` files used by the Streamlit app.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License
