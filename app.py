@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_KEY = "f0bd769149e1bf02f543ac61aa5f068b"
+API_KEY = "YOUR API KEY"
 
 st.set_page_config(
     page_title="Movie Recommender",
