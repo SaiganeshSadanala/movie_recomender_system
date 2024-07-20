@@ -31,6 +31,7 @@ To run the Movie Recommender System locally, follow these steps:
 
 3. **Download the necessary data files**:
     - Ensure you have the `movie_list.pkl` and `similarity.pkl` files in the project directory.
+    - Download [similarity.pkl file](https://drive.google.com/file/d/15GJysi4kMquGMEB-QRitCkiIjgE5YH-X/view?usp=drive_link)
 
 4. **Run the application**:
     ```sh
