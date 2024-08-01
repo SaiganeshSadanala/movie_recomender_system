@@ -20,7 +20,7 @@ To run the Movie Recommender System locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/movierecommender.git
+    git clone https://github.com/SaiganeshSadanala/movierecommender.git
     cd movierecommender
     ```
 
